@@ -1,7 +1,7 @@
 
 # Unity 6 — Esercizio per classe di **Design** (no code)
 
-**Obiettivi didattici**
+## **Obiettivi didattici**
 
 - Prendere confidenza con l’interfaccia dell’Editor (Scene/Game/Inspector/Console/Hierarchy/Project).
 - Applicare una **Naming Convention** per cartelle, asset, scene, prefab, materiali.
@@ -32,7 +32,6 @@
 
 1. Create un **nuovo progetto URP** (o usate quello del corso).  
 2. Importate la cartella `Assets/_Project` in **Project**.  
-3. Aprite la **Console** e fissate l’**Inspector** su *Debug* normale (non necessario, ma utile vedere i log).
 
 ### Parte 2 — Naming & Struttura (10’)
 
